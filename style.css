@@ -1,0 +1,327 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.row{
+    margin-right: 0 ;
+}
+
+.head {
+    height: 50px;
+}
+
+.up-head p {
+    font-size: 13px;
+    color: rgb(111, 109, 109);
+}
+
+.social-icon div i {
+    color: orange;
+}
+
+.social-icon div i:hover {
+    color: black;
+}
+
+.btn {
+    background-color: orange;
+    border: 1px solid transparent;
+    position: relative;
+    bottom: 5px;
+}
+
+.aa {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.bb {
+    margin-left: 150px;
+    margin-right: 300px;
+}
+
+.bb li {
+    margin-right: 14px;
+}
+
+.bb li:hover {
+    color: orange !important;
+}
+
+.law-logo a img {
+    transition: 300ms linear;
+}
+
+.law-logo a img:hover {
+    transform: scale(1.2);
+}
+
+.big-box {
+    background-color: #052925;
+    height: 1000px;
+}
+
+.heading h6 {
+    color: orange;
+}
+
+.heading h1 {
+    color: rgb(212, 209, 209);
+    position: relative;
+    font-size: 60px;
+}
+
+.heading p {
+    color: white;
+}
+
+.img-box1 img {
+    width: 530px;
+}
+
+.ach-img img {
+    width: 70px;
+    color: rgba(240, 248, 255, 0.344);
+}
+
+.card-edit {
+    box-shadow: 1px 1px 10px grey;
+}
+
+.ee {
+    position: relative;
+    top: -77px;
+}
+
+.anchor a {
+    color: orange;
+    text-decoration: none;
+}
+
+.anchor a:hover {
+    color: black;
+}
+
+.lpa {
+
+    background-color: #fafafa;
+    box-shadow: 1px 1px 5px #8080805e;
+    width: 330px;
+}
+
+.abc {
+    background-image: url(https://c.wallhere.com/photos/07/f1/pen_paper_macro_letter-1451075.jpg!d),url(https://img.freepik.com/free-photo/dark-green-texture_1205-338.jpg?1&w=1060&t=st=1661447333~exp=1661447933~hmac=eef38afbc9023af551051b022c1398206688b812f03b6a03b6d511697e1177e3);
+    background-blend-mode: overlay;
+    background-size: cover,cover;
+    background-position: center,center;
+    height: auto,auto;
+
+}
+
+.abcd {
+    border: 1px solid white;
+    height: auto;
+}
+
+.form-box {
+    box-shadow: 1px 1px 5px grey;
+    background-color: white;
+    padding: 0 147px;
+    position: relative;
+    top: -81px;
+}
+
+.form-box input {
+    color: black;
+    width: 774px;
+    height: 52px;
+    border: 1px solid #fafafa;
+    background-color: #fafafa;
+    margin-top: 30px;
+    padding: 19px;
+}
+
+.formedit {
+    background-image: url(https://c8.alamy.com/comp/FWCANK/black-and-white-vector-of-the-statue-of-liberty-isolated-on-white-FWCANK.jpg);
+    background-size: cover;
+    background-position: center;
+    opacity: 0.5;
+    padding-bottom: 80px;
+
+
+}
+
+.formedit .top-int input {
+    width: 376px;
+    height: 52px;
+    margin-right: 22px;
+    padding: 19px;
+
+}
+
+.form-box textarea {
+    color: rgb(11, 11, 11);
+    width: 774px;
+    height: 120px;
+    border: 1px solid #fafafa;
+    background-color: #fafafa;
+    margin-top: 30px;
+    padding: 19px;
+}
+
+.actor img {
+    width: 360px;
+    height: 450px;
+    
+}
+.actor{
+    transition: 10s linear;
+
+}
+.qwe{
+    position: absolute;
+    top: 240px;
+    left: 273px;
+    width: 323px;
+    background-color: #00000080;
+    height: 450px;
+    display: none;
+    transition: 300ms linear;
+    
+}
+.qwe2{
+    position: absolute;
+    top: 240px;
+    left: 625px;
+    width: 323px;
+    background-color: #00000080;
+    height: 450px;
+    display: none;
+    transition:  300ms linear ;
+    
+}
+.qwe3{
+    position: absolute;
+    top: 240px;
+    right: 296px;
+    width: 323px;
+    background-color: #00000080;
+    height: 450px;
+    display: none;
+    transition:  300ms linear ;
+    
+}
+.asd{
+    position: relative;
+    top: 340px;
+}
+.zxc{
+    position: relative;
+    top: 340px;
+}
+.actor:hover .qwe{
+    display: block;
+}
+.qwe:hover{
+   transform: scale(0.94);
+}
+.actor:hover .qwe2{
+    display: block;
+}
+.qwe2:hover{
+   transform: scale(0.94);
+}
+.actor:hover .qwe3{
+    display: block;
+}
+.qwe3:hover{
+   transform: scale(0.94);
+}
+
+.ddd {
+    background-color: #052925;
+    position: relative;
+}
+.tyu{
+    background-image: url(https://www.cgi.com/sites/default/files/consultants-client-talking-at-table-voc-medium.jpg),url(https://wallpapercave.com/wp/SXlkSZD.jpg);
+    background-position: center,center;
+    background-blend-mode: overlay;
+    background-size: cover;
+    opacity: 0.9;
+}
+.uyt{
+    border: 1px solid #228672;
+}
+.caro .sub-caro .car-img img{
+    border-radius: 50%;
+    width: 103px;
+    height: 103px;
+}
+
+.ccs img{
+    height: 434px;
+    width: 434px;
+
+}
+.email-box input{
+    padding: 10px;
+    width: 473px;
+    color: grey;
+    font-size: 14px;
+    outline: none;
+
+}
+.mnb{
+    background-color: #052925;
+}
+.mnb p{
+    color: white;
+}
+.poi{
+    border: 1px solid #06534b;
+}
+.last-box{
+    width:360px;
+    height: 240px;
+    transition: 300ms linear;
+}
+.last-card{
+    transition: 300ms linear;
+}
+.last-card:hover .last-box{
+    transform: skew(-1deg);
+}
+.last-card:hover h6{
+    color: orange;
+}
+.last-list ul{
+    list-style-type: none;
+    color: white;
+}
+.last-list ul li{
+    padding-top: 10px;
+}
+.last-list ul li:hover{
+    color: orange;
+}
+.email-box2 input{
+    padding: 10px;
+    width: 273px;
+    color: grey;
+    font-size: 14px;
+    outline: none;
+
+}
+.last-bg{
+    background-color: #052925;
+}
+.last-hov div i{
+    transition: 300ms linear;
+}
+.last-hov div i:hover{
+    color: orange;
+    transform: translateY(-10px);
+}
